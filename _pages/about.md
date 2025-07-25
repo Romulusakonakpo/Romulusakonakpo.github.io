@@ -1,8 +1,15 @@
 ---
-permalink: /about/
-title: "About"
+permalink: /about me/
+title: "About me"
 ---
+I am currently pursuing a dual degree in Econometrics, Statistics & Big Data and an engineering degree in Economics, Finance & Data Science at the Aix-Marseille School of Economics, and I am looking for a work-study program starting in September 2025.
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Currently a Logistics Agent at CROUS Aix Marseille Avignon, my role includes equipment management, task dispatch, needs assessment, and inventory of both incoming and outgoing items, thus strengthening my versatility and ability to adapt to dynamic environments.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+At the same time, i'm working hard at my school where I am developing advanced skills in data analysis and statistical prediction. My goal is to contribute to strategic decision-making based on reliable data while broadening my technical and professional skills.
+
+I can offer a strong command of statistical tools (Python, R, SAS), a solid background in quantitative analysis, and the ability to translate numerical results into clear recommendations. 
+
+My previous internships in government ministries and research institutes have taught me how to process large databases, automate dashboards, and write reports that can be understood by non-specialists. 
+
+I would be honored to contribute to your projects. I am available to discuss my motivations with you in person.
